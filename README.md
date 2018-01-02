@@ -15,7 +15,7 @@ Pipeline/Workflow import/export for ZBrushCore.
 
 # IMPORTANT USAGE NOTES 
 
-\* Make sure you have a saved .blend file before using the auto import/export features, then saving before import/export is then not required. The addon needs the file location to know where to create the export and textures folder used for import/export of the files.
+\* Make sure you have a saved .blend file before using the auto import/export features, then saving before import/export is then not required. The addon needs the file location to know where to create the export folder used for import/export of the files.
 
 - File Naming Convention
 
@@ -33,6 +33,6 @@ Installing an Addon in Blender
 
 # Screenshots
 
-![alt](/screenshots/pipeline_prefs.png)
+![alt](/screenshots/zbc_prefs.png)
 
-![alt](/screenshots/pipeline.png)
+![alt](/screenshots/zbc.png)
